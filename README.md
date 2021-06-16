@@ -10,7 +10,7 @@ Thông tin được tổng hợp từ nhiều nguồn khác nhau, chủ yếu t�
 
 - Page [**VNO Hackintosh - Hackintosh Việt Nam**](https://www.facebook.com/groups/vnohackintosh) :đây là page kín, nơi các cao thủ hackintosh quy tụ, hỗ trợ newbie, giải đáp thắc mắc v.v. Tuy nhiên cần phải cẩn thận với các thông tin và dữ liệu nhận được, không biết gì mà tin tưởng người khác 100% dễ mang họa (không nói cụ thể trường hợp này, đây là lời khuyên cho tất cả mọi người khi tham gia vào bất cứ cộng đồng nào trên mạng xã hội - "Ở trong rừng an toàn hơn ở trên mạng" - Black Vâu).
 - [Hackintosh.vn](https://hackintosh.vn/) : Một trang web (từng) hướng dẫn khá đầy đủ về hackintosh, tuy nhiên hiện tại đã ít hoạt động mới và chuyển dần sang hướng dẫn lập trình PHP :)) Vẫn có những thông tin rất hữu ích.
-- [Dortania](dortania.github.io) : Hướng dẫn chi tiết, tường tận cấu hình bootloader và những thứ liên quan
+- [Dortania](https://dortania.github.io) : Hướng dẫn chi tiết, tường tận cấu hình bootloader và những thứ liên quan
 
 Về người viết: lập trình viên, đã từng cài đặt thành công 2 hệ thống Hackintosh vào tháng 10/2020 - một trên PC, một trên laptop, cấu hình sẽ được nói đến ở phần sau vì đằng nào cũng chỉ có 2 máy đó để làm thôi :) - theo cách học mò, thiếu đâu điền đó, trầy trật cả tuần mới được một máy.
 
