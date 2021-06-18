@@ -8,7 +8,7 @@
 
 ​	Thông tin được tổng hợp từ nhiều nguồn khác nhau, chủ yếu từ 3 nguồn thông tin chính: 
 
-- Page [**VNO Hackintosh - Hackintosh Việt Nam**](https://www.facebook.com/groups/vnohackintosh) :đây là page kín, nơi các cao thủ hackintosh quy tụ, hỗ trợ newbie, giải đáp thắc mắc v.v. 
+- Page [**VNO Hackintosh - Hackintosh Việt Nam**](https://www.facebook.com/groups/vnohackintosh) :đây là page kín, nơi các người đam mê hackintosh quy tụ, hỗ trợ newbie, giải đáp thắc mắc v.v. 
 - [Hackintosh.vn](https://hackintosh.vn/) : Một trang web (từng) hướng dẫn khá đầy đủ về hackintosh, tuy nhiên hiện tại đã ít hoạt động mới và chuyển dần sang hướng dẫn lập trình PHP :)) Vẫn có những thông tin rất hữu ích.
 - [Dortania](https://dortania.github.io) : Hướng dẫn chi tiết, tường tận cấu hình bootloader và những thứ liên quan
 
