@@ -1,4 +1,4 @@
-[Phần 1: ]
+##  Hackintosh series - Một niềm đam mê, một thú vui hay ... thích dùng Mac nhưng ít tiền[Phần 1: Hackintosh là gì, dành cho ai? Khởi đầu hành trình Hackintosh]
 
 
 
@@ -9,6 +9,8 @@
 ### [2. Kiến thức cơ bản](#2)
 
 ### [3. Linh kiện, thiết bị](#3)
+
+​	Hackintosh - từ ghép của "Hack" và "Macintosh" - hiểu đơn giản là một hệ thống máy tính có những phần cứng không phải của Apple hoặc không được Apple ủy quyền/cấp phép chạy hệ điều hành MacOS một cách "trái phép". 
 
 ​	Việc cài đặt một hệ điều hành máy tính thường khá đơn giản và không tốn quá nhiều thời gian. Tất cả mọi người đều có thể cài đặt một phiên bản Window, Linux, FreeBSD v.v. một cách dễ dàng (có lẽ không cần viết một bài hướng dẫn) trên gần như mọi hệ thống máy tính. Nhưng không giống như cài đặt các hệ điều hành khác, MacOS là một hệ điều hành được Apple sinh ra chỉ có thể cài đặt duy nhất trên những thiết bị do Apple sản xuất và kiểm soát khắt khe. Vậy nên việc "qua mặt" hệ thống MacOS, đánh lừa nó rằng nó đang được cài đặt trên một thiết bị của Apple là một việc rất khó khăn, phức tạp. Tuy nhiên khi hoàn thành hệ thống Hackintosh hoàn toàn có thể vận hành mượt mà và ổn định như máy real Mac.
 
