@@ -1,3 +1,5 @@
+### Những thứ cần chuẩn bị trước khi cài đặt Hackintosh
+
 ​	Việc cài đặt một hệ điều hành máy tính thường khá đơn giản và không tốn quá nhiều thời gian. Tất cả mọi người đều có thể cài đặt một phiên bản Window, Linux, FreeBSD v.v. một cách dễ dàng (có lẽ không cần viết một bài hướng dẫn 😄) trên gần như mọi hệ thống máy tính. Nhưng không giống như cài đặt các hệ điều hành khác, MacOS là một hệ điều hành được Apple sinh ra chỉ có thể cài đặt duy nhất trên những thiết bị do Apple sản xuất và kiểm soát khắt khe. Vậy nên việc "qua mặt" hệ thống MacOS, đánh lừa nó rằng nó đang được cài đặt trên một thiết bị của Apple là một việc rất khó khăn, phức tạp. Tuy nhiên khi hoàn thành hệ thống Hackintosh hoàn toàn có thể vận hành mượt mà và ổn định như máy real Mac.
 
 ​	**Vậy nên, thứ đầu tiên cần phải chuẩn bị đó là tâm lý, thời gian và sự kiên nhẫn. **
@@ -43,6 +45,7 @@
     -  SSD WDC Green (các mẫu WD khác như Blue hay Red không có nguồn thông tin nào nhắc đến, nhưng tốt nhất nên tránh nếu muốn mua ổ cứng mới, nếu đang sử dụng các mẫu này thì có thể thử :v) không hỗ trợ định dạng APFS mới hơn của Apple, bắt buộc dùng HFS. Tức là bạn vẫn có thể cài đặt Hackintosh nhưng cần lưu ý về định dạng ổ cứng.
     -  SSD Samsung 970 EVO PLUS cần phải update firmware mới nhất (Download firmware từ website của samsung, Sử dụng công cụ balenaEtcher để tiến hành update. Khá đơn giản và chỉ mất vài phút, chi tiết hơn các bạn có thể search google). 
   - Laptop sử dụng công nghệ Intel Optane không được hỗ trợ trên MacOS (không rõ đối với desktop). Bạn vẫn có thể cài đặt phiên bản MacOS 10.15 (Catalina) trên những thiết bị này nhưng sẽ tiềm ẩn những rủi ro về vấn đề khởi động (boot).
+  - Việc cài đặt Hackintosh sẽ không làm hỏng ổ cứng của bạn, tuy nhiên nếu quá trình chuẩn bị thiếu chu đáo dẫn đến format, ghi xóa dữ liệu quá nhiều lần sẽ ảnh hưởng xấu đến tuổi thọ ổ cứng. Hãy chuẩn bị mọi thứ thật cẩn thận và không cần lo lắng cho ổ cứng của bạn.
 - **CPU**: Phần lớn các CPU đều có thể (chỉ là có thể thôi nhé) cài đặt Hackintosh. Tuy nhiên cần lưu ý:
   - CPU của AMD chỉ hỗ trợ 3 thế hệ Bulldozer(15th), Jaguar(16th) và Ryzen(17th) (có lẽ 2 thế hệ trước không nhiều người biết, chỉ phổ biến Ryzen) và những CPU cho laptop **không được hỗ trợ**. Ngoài ra, một số tính năng của MacOS sẽ **không khả dụng** trên CPU AMD desktop. Hiện tại mình không có CPU ADM desktop nên k thể thử nghiệm thực tế trường hợp này.
   - Phần lớn các CPU Intel **cho Desktop** đều hỗ trợ Hackintosh, dòng Pentium, Atom và Celeron sẽ cần phải fakecpuid thành Core i.  
@@ -69,3 +72,16 @@
      - Camera: Những thiết bị có camera kết nối bằng chuẩn USB có thể hoạt động được (nếu bạn may mắn :v ), còn những thiết bị có camera kết nối bằng I2C sẽ không hoạt động được. Mình không có đủ dữ kiện để xác minh thông tin này, trong quá trình cài đặt sẽ thử nghiệm trên máy của mình.
      - Micro của Laptop và các vấn đề khác của jack cắm tai nghe, mình sẽ thử nghiệm khi cài đặt.
      - Cổng Thunderbolt USB-C gặp một số lỗi, đơn giản nhất là disable Thunderbolt và sử dụng như một cổng USB-C thông thường, vẫn có những cách khác để sử dụng Thunderbolt, mình sẽ thử nghiệm khi cài đặt.
+
+### Tổng quát lại toàn bộ quy trình chuẩn bị
+
+​	**Tinh thần**: tự chuẩn bị
+
+​	**Backup dữ liệu:** Một bước cơ bản khi cài đặt bất cứ hệ điều hành nào, toàn bộ dữ liệu trong phân vùng cài đặt hệ điều hành sẽ bị mất. 
+
+​	**Xác định phần cứng**: Xác định phần cứng sẵn có và so sánh với những lưu ý phía trên, đảm bảo mọi thứ tương thích và mua thêm những linh kiện còn thiếu.
+
+​	**Công cụ:** USB tối thiểu 8GB, khuyên dùng 16GB trở lên, Internet (download bộ cài khá nặng, và các tool, kext cần thiết), nên có một máy tính thứ 2 để hỗ trợ quá trình cài đặt.
+
+​	
+
