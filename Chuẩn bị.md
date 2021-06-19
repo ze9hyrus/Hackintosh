@@ -1,8 +1,18 @@
+[Phần 1: ]
+
+
+
 ### Những thứ cần chuẩn bị trước khi cài đặt Hackintosh
 
-​	Việc cài đặt một hệ điều hành máy tính thường khá đơn giản và không tốn quá nhiều thời gian. Tất cả mọi người đều có thể cài đặt một phiên bản Window, Linux, FreeBSD v.v. một cách dễ dàng (có lẽ không cần viết một bài hướng dẫn 😄) trên gần như mọi hệ thống máy tính. Nhưng không giống như cài đặt các hệ điều hành khác, MacOS là một hệ điều hành được Apple sinh ra chỉ có thể cài đặt duy nhất trên những thiết bị do Apple sản xuất và kiểm soát khắt khe. Vậy nên việc "qua mặt" hệ thống MacOS, đánh lừa nó rằng nó đang được cài đặt trên một thiết bị của Apple là một việc rất khó khăn, phức tạp. Tuy nhiên khi hoàn thành hệ thống Hackintosh hoàn toàn có thể vận hành mượt mà và ổn định như máy real Mac.
+### [1. Tâm lý, thời gian và sự kiên nhẫn](#1)
 
-​	**Vậy nên, thứ đầu tiên cần phải chuẩn bị đó là tâm lý, thời gian và sự kiên nhẫn. **
+### [2. Kiến thức cơ bản](#2)
+
+### [3. Linh kiện, thiết bị](#3)
+
+​	Việc cài đặt một hệ điều hành máy tính thường khá đơn giản và không tốn quá nhiều thời gian. Tất cả mọi người đều có thể cài đặt một phiên bản Window, Linux, FreeBSD v.v. một cách dễ dàng (có lẽ không cần viết một bài hướng dẫn) trên gần như mọi hệ thống máy tính. Nhưng không giống như cài đặt các hệ điều hành khác, MacOS là một hệ điều hành được Apple sinh ra chỉ có thể cài đặt duy nhất trên những thiết bị do Apple sản xuất và kiểm soát khắt khe. Vậy nên việc "qua mặt" hệ thống MacOS, đánh lừa nó rằng nó đang được cài đặt trên một thiết bị của Apple là một việc rất khó khăn, phức tạp. Tuy nhiên khi hoàn thành hệ thống Hackintosh hoàn toàn có thể vận hành mượt mà và ổn định như máy real Mac.
+
+​	**1. Vậy nên, đầu tiên chúng ta cần phải chuẩn bị tâm lý, thời gian và sự kiên nhẫn.**<a name="1"></a>
 
 ​	Nếu bạn cần gấp, hoặc có công việc quan trọng, hoặc đơn giản chỉ muốn một máy tính chạy MacOS để làm việc thì hãy bỏ tiền ra mua một chiếc MacOS đi, hoặc nếu tài chính không cho phép thì có thể thuê thợ cài Hackintosh (như các bạn ra quán nhờ cài win vậy) với phí khoảng trên 400k (tham khảo từ một người bạn, mình cũng k rõ giá thị trường, còn dao động tùy vào cấu hình nữa), tất nhiên là bạn phải có sẵn một thiết bị có phần cứng phù hợp (sẽ được nói ở phần chuẩn bị phần cứng).
 
@@ -19,7 +29,7 @@
 
 ​	Từ những điều trên và nhu cầu của bản thân, hãy quyết định có nên bắt tay vào Hackintosh hay không.
 
-​	**Điều thứ hai cần chuẩn bị là kiến thức.**
+​	**2. Kiến thức cơ bản**<a name="2"></a>
 
 ​	Bạn cần phải biết cài đặt các hệ điều hành khác, hiểu biết về cách hệ điều hành hoạt động (đặc biệt là Unix và các Unix-like), các phần cứng, ví dụ như:
 
@@ -33,7 +43,7 @@
 
 ​	Một thứ quan trọng nữa là các bạn cần phải hiểu biết cơ bản về command lines, cách sử dụng terminal/command prompt. Nếu bạn là một người dùng Linux thì mọi thứ sẽ trở nên dễ dàng hơn đôi chút. Các bạn có thể tìm hiểu ít nhất là cách truy cập thư mục, copy hoặc xóa tệp bằng command lines. Còn nếu bạn không biết gì về máy tính thì bài này để đọc cho vui thôi.
 
-​	**Cuối cùng là phần cứng và các thiết bị liên quan.**
+​	**3. Cuối cùng là phần cứng và các thiết bị liên quan.**<a name="3"></a>
 
 ​	Tối thiểu các bạn cần một hệ thống máy tính, một USB để tạo bộ cài MacOS. Tuy nhiên sẽ rất khó khăn và rủi ro cao vì cài Hackintosh rất dễ gây hỏng hệ điều hành đang chạy. Vậy nên tốt nhất là nên có 2 hệ thống máy tính - một để tạo bộ cài, cấu hình bộ cài và search google :v và một để cài đặt. Sau đây là chi tiết về các phần cứng tương thích (khả dụng để cài đặt Hackintosh).
 
