@@ -89,11 +89,9 @@
 
 ​	**Tinh thần**: tự chuẩn bị
 
-​	**Backup dữ liệu:** Một bước cơ bản khi cài đặt bất cứ hệ điều hành nào, toàn bộ dữ liệu trong phân vùng cài đặt hệ điều hành sẽ bị mất. 
+​	**Backup dữ liệu:** Một bước cơ bản khi cài đặt bất cứ hệ điều hành nào, toàn bộ dữ liệu trong phân vùng (Khả năng cao sẽ là cả ổ cứng) cài đặt hệ điều hành sẽ bị mất. 
 
 ​	**Xác định phần cứng**: Xác định phần cứng sẵn có và so sánh với những lưu ý phía trên, đảm bảo mọi thứ tương thích và mua thêm những linh kiện còn thiếu.
 
 ​	**Công cụ:** USB tối thiểu 8GB, khuyên dùng 16GB trở lên, Internet (download bộ cài khá nặng, và các tool, kext cần thiết), nên có một máy tính thứ 2 để hỗ trợ quá trình cài đặt.
-
-​	
 
