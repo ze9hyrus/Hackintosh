@@ -1,16 +1,18 @@
 ## Hackintosh series - Một niềm đam mê, một thú vui hay ... thích dùng Mac nhưng ít tiền[Phần 2: ]
 
-### Quy trình 
+### Quy trình cài đặt
 
 ##### 	[1.Xác định phần cứng](#1)
 
-##### 	[2.Tạo USB cài đặt](#2)
+**[2.Những điều cần lưu ý](#2)**
 
-##### 	[3.Setup BIOS](#3)
+##### 	[3.Tạo USB cài đặt](#3)
 
-##### 	[4.Cài đặt](#4)
+##### 	[4.Setup BIOS](#4)
 
-##### 	[5.Sửa lỗi, hoàn thiện](#5)
+##### 	[5.Cài đặt](#5)
+
+##### 	[6.Sửa lỗi, hoàn thiện](#6)
 
 #### 1.Xác định phần cứng<a name="1"></a>
 
@@ -43,13 +45,19 @@
 
 ​	Vì thiết bị này sử dụng GPU kiến trúc Pascal nên mình sẽ cài đặt phiên bản MacOS 10.13: High Sierra. Lí do cụ thể các bạn có thể đọc lại ở phần 1
 
-#### 2.Tạo USB cài đặt<a name="2"></a>
+#### 2.Những điều cần lưu ý<a name="2"></a>
+
+- Installer
+- Format
+- Kext
+
+#### 3.Tạo USB cài đặt<a name="3"></a>
 
 
 
-#### 3.Setup BIOS<a name="3"></a>
+#### 4.Setup BIOS<a name="4"></a>
 
-#### 4.Cài đặt<a name="4"></a>
+#### 5.Cài đặt<a name="5"></a>
 
-#### 5.Sửa lỗi, hoàn thiện<a name="5"></a>
+#### 6.Sửa lỗi, hoàn thiện<a name="6"></a>
 
