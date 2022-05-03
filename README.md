@@ -8,9 +8,9 @@
 
 ​	Thông tin được tổng hợp từ nhiều nguồn khác nhau, chủ yếu từ 3 nguồn thông tin chính: 
 
-- Page [**VNO Hackintosh - Hackintosh Việt Nam**](https://www.facebook.com/groups/vnohackintosh) :đây là page kín, nơi các người đam mê hackintosh quy tụ, hỗ trợ newbie, giải đáp thắc mắc v.v. 
+- Page [**VNO Hackintosh - Hackintosh Việt Nam**](https://www.facebook.com/groups/vnohackintosh) 
 - [Hackintosh.vn](https://hackintosh.vn/) : Một trang web (từng) hướng dẫn khá đầy đủ về hackintosh, tuy nhiên hiện tại đã ít hoạt động mới và chuyển dần sang hướng dẫn lập trình PHP :)) Vẫn có những thông tin rất hữu ích.
-- [Dortania](https://dortania.github.io) : Hướng dẫn chi tiết, tường tận cấu hình bootloader và những thứ liên quan
+- [Dortania](https://dortania.github.io) : Hướng dẫn chi tiết cấu hình bootloader (OpenCore) và những thứ liên quan
 
 > Lưu ý: Cần phải cẩn thận với các thông tin và dữ liệu nhận được, không biết gì mà tin tưởng người khác 100% dễ mang họa (không nói cụ thể trường hợp này, đây là lời khuyên cho tất cả mọi người khi tham gia vào bất cứ cộng đồng nào trên mạng xã hội - "Ở trong rừng an toàn hơn ở trên mạng" - Black Vâu).
 
