@@ -1,4 +1,4 @@
-##  Hackintosh series - Một niềm đam mê, một thú vui hay ... thích dùng Mac nhưng ít tiền[Phần 1: Hackintosh là gì, dành cho ai? Khởi đầu hành trình Hackintosh]
+##  Hackintosh series [Phần 1: Hackintosh là gì, dành cho ai? Khởi đầu hành trình Hackintosh]
 
 
 
