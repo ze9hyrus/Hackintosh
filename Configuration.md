@@ -1,4 +1,4 @@
-## Hackintosh series - Một niềm đam mê, một thú vui hay ... thích dùng Mac nhưng ít tiền[Phần 2: ]
+## Hackintosh series [Phần 2: Configuration]
 
 ### Quy trình cài đặt
 
